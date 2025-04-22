@@ -70,7 +70,7 @@ You can restart a service using: `sudo systemctl restart <service-name>`
 ## 👨‍💻 Developer
 
 Made with ❤️ by **Mohammad Albuainain**  
-Twitter: [@DevMohammad_SA]
+X: [@DevMohammad_SA](https://www.x.com/DevMohammad_SA)
 
 
 ---
